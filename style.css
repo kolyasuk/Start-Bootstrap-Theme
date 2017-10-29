@@ -1,0 +1,48 @@
+body{
+	background: url("./img/bg.jpg") no-repeat center center fixed;
+}
+main{
+	color:#21252A;
+	font-size: 17px;
+}
+.header-top p:first-child{
+	font-size: 5rem;
+	margin-bottom: 0px;
+	line-height: 70px;
+}
+
+.header-top p+p{
+	letter-spacing: 3px;
+	font-size: 1.2rem;
+
+}
+
+.text-spacing{
+	letter-spacing: 3px;
+}
+
+.bg-color{
+	background-color: rgba(255, 255, 255, 0.9);
+}
+
+.header-bottom .nav-item a{
+	letter-spacing: 0.12rem;
+	font-size: 1.05rem;
+}
+
+.heading {
+    font-family: "Josefin Slab", "Helvetica Neue", Helvetica, Arial, serif;
+}
+.heading-size{
+	font-size: 1.25rem;
+}
+
+#carouselExampleIndicators+div h1{
+	font-size: 55px;
+}
+
+.separation{
+	border-color: #292b2c;
+    max-width: 250px;
+}
+
